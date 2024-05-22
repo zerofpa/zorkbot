@@ -1,0 +1,22 @@
+[
+    {
+        "input_text": "look",
+        "target_text": "I won't run as root!"
+    },
+    {
+        "input_text": "north",
+        "target_text": "I won't run as root!"
+    },
+    {
+        "input_text": "east",
+        "target_text": "I won't run as root!"
+    },
+    {
+        "input_text": "west",
+        "target_text": "I won't run as root!"
+    },
+    {
+        "input_text": "south",
+        "target_text": "I won't run as root!"
+    }
+]
