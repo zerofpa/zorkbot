@@ -7,7 +7,7 @@ import tkinter as tk
 from tkinter import scrolledtext
 
 # Path to your checkpoint folder
-checkpoint_path = "/home/xyro/Desktop/resultbert/checkpoint-177"
+checkpoint_path = "/path/to/checkpoint"
 
 # Load the pretrained model and tokenizer
 tokenizer = AutoTokenizer.from_pretrained(checkpoint_path)
